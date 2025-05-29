@@ -5,7 +5,7 @@ This guide will help you deploy the Spleeter API server (based on [lekoOwO/splee
 ---
 
 ## 1. **Clone or Upload the Repo**
-- If you haven't already, push this directory to your own GitHub repository (e.g., `yourusername/spleeter-api-server`).
+- If you haven't already, push this directory to your own GitHub repository (e.g., `bantoinese83/spleeter-api-server`).
 - Or, you can use the Render web UI to upload the code directly.
 
 ## 2. **Create a New Web Service on Render**
