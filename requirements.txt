@@ -1,0 +1,6 @@
+musdb
+museval
+gunicorn
+falcon
+falcon-multipart
+protobuf==3.20.*
